@@ -27,21 +27,25 @@ Toronto, ON, Canada
 
 **Machine Learning Engineer**, *Workday*, Toronto, Canada, 2026/06 &ndash; present
 - Joined the Information Retrieval team, focusing on **information retrieval** for AI-powered systems.
-##  
+
+
 **Senior Applied ML Scientist**, *Autodesk*, Toronto, Canada, 2024/09 &ndash; 2026/01
 - Built a 0->1 **recommendation system** by designing a deployable **GNN-based ranking pipeline** for in-product insights (~500K users), scoring ~1,000 suggestions per user and boosting ranking relevance by 1.5x vs. the baseline.
 - Piloted a user‑facing insights system with **LLM‑generated suggestions**, context‑aware filtering, and **personalized prioritization**, lifting top insight relevance by 2x.
 - Designed and shipped an **LLM/RAG evaluation** workflow to speed up review cycles for context alignment and answer attribution in an internal AI assistant; rolled out to the User Research team and resulted in a filed patent for a **GenAI evaluation** framework.
-##  
+
+
 **Senior Research Scientist**, *Huawei*, Moscow, Russia, 2021/11 &ndash; 2024/08
 - Delivered a **graph optimization** prototype for **LLM training** – cutting training compute by 40%; led a tech transfer to HQ engineering for integration into the production toolchain and contributed to a patent.
 - Unblocked a cross-team **polyhedral compiler** project by shipping a technical roadmap that cleared a theoretical bottleneck and saved weeks of research.
 - Set reliability acceptance criteria for an internal fiber‑optics **physics AI solver** by diagnosing a low‑loss/high‑error failure mode and shipping a reusable **loss‑to‑error estimation** framework generalizable beyond fiber optics; published a preprint.
-##  
+
+
 **Software Developer**, *1C-Rarus*, Moscow, Russia, 2017/07 &ndash; 2021/10
 - Extended an existing **CRM** with a custom customs clearance workflow for FedEx’s local branch, improving operational eﬀiciency by 20% and cutting processing time by 15%.
 - Provided ongoing **production support** and enhancements for the customs clearance workflow over 4 years, turning evolving business requirements into reliable updates for daily clearance operations.
-##  
+
+
 **Software Developer Intern**, *Macroeconomic Research Center*, Moscow, Russia, 2016/11 &ndash; 2017/03
 - Developed features for expired tokens removal, media player buffer reading, and diagram making without self-intersections on a sociological surveys project.
 
