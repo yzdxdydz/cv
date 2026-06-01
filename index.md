@@ -26,7 +26,7 @@ Toronto, ON, Canada
 ## Experience
 
 **Machine Learning Engineer**, *Workday*, Toronto, Canada, 2026/06 &ndash; present
-- Joined the AI Platform team to work on agent evaluation for production LLM-powered enterprise AI systems.
+- Joined the Information Retrieval team, focusing on **information retrieval** for AI-powered systems.
 ## 
 **Senior Applied ML Scientist**, *Autodesk*, Toronto, Canada, 2024/09 &ndash; 2026/01
 - Built a 0->1 **recommendation system** by designing a deployable **GNN-based ranking pipeline** for in-product insights (~500K users), scoring ~1,000 suggestions per user and boosting ranking relevance by 1.5x vs. the baseline.
